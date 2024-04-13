@@ -280,8 +280,9 @@ align-items: center;box-shadow: 0px 4px 23px 0px #00000017;}
 .icon ul li i{width: 18px;height: 18px;border-radius: 50%;border: 1px solid var(--secondary-color);text-align: center;color: var(--secondary-color);margin-right: 11px;line-height: 15px;}
 .footer-col ul li a{font-size: 16px;font-family: var(--primary-font);font-weight: 500;color: var(--secondary-color);transition: all ease 0.5s;}
 .icon .f-right-block {display: flex;flex-direction: column;row-gap: 20px;}
-.footer-col ul p{font-size: 16px;font-family: var(--primary-font);font-weight: 500;color: var(--secondary-color )!important;line-height: 39px;margin-top: -7px;padding-bottom: 15px;margin-bottom: 0;}
-.footer-col ul a{font-size: 16px;font-family: var(--primary-font);font-weight: 400;color: var(--secondary-color)!important;line-height: 19px;}
+.icon .f-right-block p{color: #fff;}
+.footer-col ul p{font-size: 16px;font-family: var(--primary-font);font-weight: 500;color: var(--secondary-color );line-height: 39px;margin-top: -7px;padding-bottom: 15px;margin-bottom: 0;}
+.footer-col ul a{font-size: 16px;font-family: var(--primary-font);font-weight: 400;color: var(--secondary-color);line-height: 19px;}
 .footer-col ul a i{font-size: 14px;color: var(--secondary-color);}
 /* .footer-col .email-block button{font-size: 24px;padding-left: 0 !important;height: calc(100% - 4px);top: 2px;right: 2px;} */
 .email-block{position: relative;width: 100%;margin-top: 30px;}
